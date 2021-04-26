@@ -17,10 +17,10 @@ export const Team = () => {
             />
           </div>
           <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-            <p className="text-lg font-bold">Oliver Aguilerra</p>
+            <p className="text-lg font-bold">役員1</p>
             <p className="mb-4 text-xs text-gray-800">Product Manager</p>
             <p className="mb-4 text-sm tracking-wide text-gray-800">
-              Vincent Van Gogh’s most popular painting, The Starry Night.
+              テキストテキストテキストテキストテキストテキストテキストテキストテキスト
             </p>
             <div className="flex items-center space-x-3">
               <a
@@ -51,10 +51,10 @@ export const Team = () => {
             />
           </div>
           <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-            <p className="text-lg font-bold">Marta Clermont</p>
+            <p className="text-lg font-bold">役員2</p>
             <p className="mb-4 text-xs text-gray-800">Design Team Lead</p>
             <p className="mb-4 text-sm tracking-wide text-gray-800">
-              Amet I love liquorice jujubes pudding croissant I love pudding.
+              テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
             </p>
             <div className="flex items-center space-x-3">
               <a
@@ -85,11 +85,10 @@ export const Team = () => {
             />
           </div>
           <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-            <p className="text-lg font-bold">Alice Melbourne</p>
+            <p className="text-lg font-bold">役員3</p>
             <p className="mb-4 text-xs text-gray-800">Human Resources</p>
             <p className="mb-4 text-sm tracking-wide text-gray-800">
-              Lorizzle ipsum bling bling sit amizzle, consectetuer adipiscing
-              elit.
+              テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
             </p>
             <div className="flex items-center space-x-3">
               <a
@@ -120,11 +119,10 @@ export const Team = () => {
             />
           </div>
           <div className="flex flex-col justify-center mt-5 sm:mt-0 sm:p-5 sm:col-span-2">
-            <p className="text-lg font-bold">John Doe</p>
-            <p className="mb-4 text-xs text-gray-800">Good guy</p>
+            <p className="text-lg font-bold">役員4</p>
+            <p className="mb-4 text-xs text-gray-800">Engineer</p>
             <p className="mb-4 text-sm tracking-wide text-gray-800">
-              Bacon ipsum dolor sit amet salami jowl corned beef, andouille
-              flank.
+              テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
             </p>
             <div className="flex items-center space-x-3">
               <a
